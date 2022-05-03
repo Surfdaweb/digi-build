@@ -1,4 +1,5 @@
 # Digi-Build
+Update: Compentitve analysis indicated that other free programs existed for this, so I don't really need it
 My brother Tommy loves to work with Legos and create masterpieces based off what he sees others create in the Lego community. However, he can only predict what pieces he needs based off the pieces he has, so he can't clearly plan out his entire build. He can only order a few pieces at a time, meaning he is usually waiting months to complete one project and weeks between getting 10-15 pieces that he needs for his build before getting another batch.
 
 This project is intended to solve all that by doing the following
